@@ -17,6 +17,7 @@ header nav {
 nav li {
 	list-style-type: none;
 	display: inline-block;
+	padding-top: calc(30px - 1em / 2);
 }
 nav a {
 	text-decoration: none;
