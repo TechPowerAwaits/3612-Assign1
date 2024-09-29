@@ -3,11 +3,14 @@ html * {
 	padding: 0;
 	margin: 0;
 }
-header {
+header#primary-header {
 	background-image: url(images/florence.jpg);
 	background-size: cover;
 	width: 100%;
 	min-height: 500px;
+}
+header {
+	background-color: #94b1d3;
 }
 header nav {
 	background: url(images/logo.svg) no-repeat;
