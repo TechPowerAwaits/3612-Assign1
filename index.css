@@ -31,7 +31,7 @@ nav a:visited {
 nav a:hover {
 	color: #5D69C6;
 }
-header div {
+section#header-text {
 	color: white;
 	margin-top: calc(250px - 48px - 24px);
 	margin-left: calc(60px + 1rem);
