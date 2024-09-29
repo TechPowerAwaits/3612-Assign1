@@ -57,3 +57,10 @@ a.button:visited {
 a.button:hover {
 	background-color: #5D69C6;
 }
+main {
+	background-color: whitesmoke;
+}
+article.card {
+	display: inline-block;
+	background-color: white;
+}
