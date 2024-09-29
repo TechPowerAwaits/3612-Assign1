@@ -73,3 +73,14 @@ article.card p {
 article.card span.user-feedback {
 	font-size: 10px;
 }
+article.card span.likes {
+	background: url(images/heart.png) no-repeat;
+	background-size: contain;
+	padding-left: 2em;
+	margin-right: 2em;
+}
+article.card span.comments {
+	background: url(images/comment.png) no-repeat;
+	background-size: contain;
+	padding-left: 2em;
+}
