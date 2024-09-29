@@ -43,9 +43,11 @@ h1 {
 }
 h2 {
 	font-size: 24px;
+	font-weight: normal;
 }
 h3 {
 	font-size: 14px;
+	font-weight: normal;
 }
 a.button {
 	display: inline-block;
@@ -75,6 +77,7 @@ article.card p {
 }
 article.card span.user-feedback {
 	font-size: 10px;
+	font-weight: 300;
 }
 article.card span.likes {
 	background: url(images/heart.png) no-repeat;
