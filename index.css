@@ -11,15 +11,17 @@ header {
 }
 header nav {
 	background: url(images/logo.svg) no-repeat;
-	padding-left: 60px;
+	padding-left: calc(60px + 1em);
 	height: 60px;
+}
+header nav li {
+	padding-top: calc(30px - 1em / 2);
 }
 nav li {
 	list-style-type: none;
 	text-transform: uppercase;
 	display: inline-block;
-	padding-top: calc(30px - 1em / 2);
-	padding-left: 1em;
+	padding-right: 1em;
 }
 nav a {
 	text-decoration: none;
@@ -84,4 +86,9 @@ article.card span.comments {
 	background: url(images/comment.png) no-repeat;
 	background-size: contain;
 	padding-left: 2em;
+}
+footer {
+	font-size: 12px;
+	text-align: center;
+	background-color: #94b1d3;
 }
