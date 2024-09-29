@@ -42,6 +42,9 @@ h1 {
 h2 {
 	font-size: 24px;
 }
+h3 {
+	font-size: 14px;
+}
 a.button {
 	display: inline-block;
 	text-transform: uppercase;
@@ -63,4 +66,10 @@ main {
 article.card {
 	display: inline-block;
 	background-color: white;
+}
+article.card p {
+	font-size: 12px;
+}
+article.card span.user-feedback {
+	font-size: 10px;
 }
