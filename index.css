@@ -78,17 +78,17 @@ article.card {
 article.card p {
 	font-size: 12px;
 }
-article.card span.user-feedback {
+.user-feedback {
 	font-size: 10px;
 	font-weight: 300;
 }
-article.card span.likes {
+.user-feedback span.likes {
 	background: url(images/heart.png) no-repeat;
 	background-size: contain;
 	padding-left: 2em;
 	margin-right: 2em;
 }
-article.card span.comments {
+.user-feedback span.comments {
 	background: url(images/comment.png) no-repeat;
 	background-size: contain;
 	padding-left: 2em;
