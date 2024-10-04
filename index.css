@@ -116,6 +116,9 @@ footer {
 }
 .image-grid article {
 	grid-area: main;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 .image-grid img#rel1 {
 	grid-area: rel1;
