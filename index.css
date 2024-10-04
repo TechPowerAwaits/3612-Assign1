@@ -105,6 +105,15 @@ footer {
 	'main main main'
 	'rel1 rel2 rel3';
 }
+@media(max-width: 850px) {
+	.image-grid {
+		grid-template-areas:
+		'main'
+		'rel1'
+		'rel2'
+		'rel3'
+	};
+}
 .image-grid article {
 	grid-area: main;
 }
