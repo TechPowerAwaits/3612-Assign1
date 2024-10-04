@@ -78,34 +78,34 @@ article.card {
 article.card p {
 	font-size: 12px;
 }
-.user-feedback {
+.location-meta {
 	font-size: 10px;
 	font-weight: 300;
 }
-.user-feedback > * {
+.location-meta > * {
 	padding-left: 2em;
 	padding-right: 2em;
 }
-.user-feedback:last-child {
+.location-meta:last-child {
 	padding-right: 0;
 }
-.user-feedback span.likes {
+.location-meta span.likes {
 	background: url(images/heart.png) no-repeat;
 	background-size: contain;
 }
-.user-feedback span.comments {
+.location-meta span.comments {
 	background: url(images/comment.png) no-repeat;
 	background-size: contain;
 }
-.user-feedback span.france {
+.location-meta span.france {
 	background: url(images/france.png) no-repeat;
 	background-size: contain;
 }
-.user-feedback span.greece {
+.location-meta span.greece {
 	background: url(images/greece.png) no-repeat;
 	background-size: contain;
 }
-.user-feedback span.netherlands {
+.location-meta span.netherlands {
 	background: url(images/netherlands.png) no-repeat;
 	background-size: contain;
 }
