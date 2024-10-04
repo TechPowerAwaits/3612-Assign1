@@ -132,5 +132,8 @@ footer {
 		'rel1'
 		'rel2'
 		'rel3'
-	};
+	}
+	.image-grid article {
+		align-items: start;
+	}
 }
