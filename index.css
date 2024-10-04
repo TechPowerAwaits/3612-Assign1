@@ -97,6 +97,18 @@ article.card p {
 	background: url(images/comment.png) no-repeat;
 	background-size: contain;
 }
+.user-feedback span.france {
+	background: url(images/france.png) no-repeat;
+	background-size: contain;
+}
+.user-feedback span.greece {
+	background: url(images/greece.png) no-repeat;
+	background-size: contain;
+}
+.user-feedback span.netherlands {
+	background: url(images/netherlands.png) no-repeat;
+	background-size: contain;
+}
 footer {
 	font-size: 12px;
 	text-align: center;
