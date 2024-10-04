@@ -98,3 +98,22 @@ footer {
 	text-align: center;
 	background-color: #94b1d3;
 }
+.image-grid {
+	display: grid;
+	gap: 1rem;
+	grid-template-areas:
+	'main main main'
+	'rel1 rel2 rel3';
+}
+.image-grid article {
+	grid-area: main;
+}
+.image-grid img#rel1 {
+	grid-area: rel1;
+}
+.image-grid img#rel2 {
+	grid-area: rel2;
+}
+.image-grid img#rel3 {
+	grid-area: rel3;
+}
