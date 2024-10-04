@@ -126,3 +126,8 @@ footer {
 .image-grid img#rel3 {
 	grid-area: rel3;
 }
+.image-grid figure {
+	display: grid;
+	gap: 1rem;
+	justify-items: center;
+}
