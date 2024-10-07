@@ -141,6 +141,10 @@ footer {
 	gap: 1rem;
 	justify-items: center;
 }
+/*This was inspired by my work from Lab 3.
+The same width for phones as in the lab was used,
+but the rest of the content is based on the knowledge
+I have gained thus far in the course.*/
 @media(max-width: 850px) {
 	.image-grid {
 		grid-template-areas:
