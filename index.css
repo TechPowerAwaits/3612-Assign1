@@ -71,11 +71,9 @@ main {
 	background-color: whitesmoke;
 	padding: 1rem;
 }
-white-background {
-	background-color: white;
-}
 article.card {
 	display: inline-block;
+	background-color: white;
 }
 article.card p {
 	font-size: 12px;
