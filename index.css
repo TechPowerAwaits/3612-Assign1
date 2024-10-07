@@ -52,9 +52,6 @@ h3 {
 	font-size: 14px;
 	font-weight: normal;
 }
-p {
-	font-size: 12px;
-}
 a.button {
 	display: inline-block;
 	text-transform: uppercase;
@@ -79,6 +76,9 @@ white-background {
 }
 article.card {
 	display: inline-block;
+}
+article.card p {
+	font-size: 12px;
 }
 .location-meta {
 	font-size: 10px;
